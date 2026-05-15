@@ -72,7 +72,7 @@
 
 | Role     | Username           | Password    |
 |----------|--------------------|-------------|
-| Admin    | `admin@gmail.com`  | `ademo123`  |
+| Admin    | `admin@gmail.com`  | `demo123`   |
 | Employee | `alice@gmail.com`  | `demo123`   |
 | Employee | `bob@gmail.com`    | `demo123`   |
 | Employee | `carol@gmail.com`  | `demo123`   |
