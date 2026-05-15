@@ -34,7 +34,7 @@
 ![Calendar View](./screenshots/calendar.png)
 
 ### Employee Analytics
-![Employee Analytics](./screenshots/analytics.png)
+<img src="./screenshots/analytics.png" width="700" />
 
 ### Change Password
 ![Change Password](./screenshots/change-password.png)
