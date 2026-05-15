@@ -4,6 +4,20 @@
 
 ---
 
+# DEMO website: 
+
+[worklog live demo] (https://worklog-frontend-two.vercel.app/login)
+
+Demo accounts:
+
+| Role     | Username           | Password    |
+|----------|--------------------|-------------|
+| Admin    | `admin@gmail.com`  | `demo123`   |
+| Employee | `alice@gmail.com`  | `demo123`   |
+| Employee | `bob@gmail.com`    | `demo123`   |
+| Employee | `carol@gmail.com`  | `demo123`   |
+| Employee | `dave@gmail.com`   | `demo123`   |
+
 ## Overview
 
  Worklog provides admins with a live submission dashboard, per-employee analytics, and historical drill-down — replacing manual tracking with a structured, data-driven workflow.
